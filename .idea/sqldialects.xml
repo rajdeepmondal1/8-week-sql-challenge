@@ -2,6 +2,9 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/Week 1 - Danny's Diner/case_study_1_dannys_diner.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Week 1 - Danny's Diner/question_1.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Week 1 - Danny's Diner/question_2.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Week 1 - Danny's Diner/question_3.sql" dialect="PostgreSQL" />
     <file url="file://$USER_HOME$/case_study_1_dannys_diner.sql" dialect="PostgreSQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
